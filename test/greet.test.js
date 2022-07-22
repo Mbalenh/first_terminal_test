@@ -1,4 +1,4 @@
-import assert from 'node: assert'
+import assert from 'assert'
 import greet from '../greet.js'
 
 describe('The greet function', function(){
